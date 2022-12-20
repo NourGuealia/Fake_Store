@@ -1,6 +1,9 @@
 # Fake store  application using Reactjs and TailwindCSS.
 A fake ecommerce store ,  completly responsive store application with Reactjs .
 
+## Demo
+https://fake-store-omega.vercel.app/
+
 ## Technologies Used
 - Reactjs
     - ContextAPI ( state management )
